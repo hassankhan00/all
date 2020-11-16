@@ -1,0 +1,18 @@
+.hidden{
+    display: none;
+}
+
+
+.show{
+    display: inline-block;
+}
+.image-div{
+    height: 300px;
+    position: relative;
+}
+
+.title{
+    position: absolute;
+    bottom: 0;
+    left: 100px;
+}
